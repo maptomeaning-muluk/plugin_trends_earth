@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trends.earth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trends.earth-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trends.earth-CLI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trends.earth-algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trends.earth-schemas" vcs="Git" />
+  </component>
+</project>
